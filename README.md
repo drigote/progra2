@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="250">
-      <img src="perfil.jpg" width="220">
+      <img src="roco.jpeg" width="220">
     </td>
     <td>
       <h2>Sobre mí</h2>
