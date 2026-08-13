@@ -7,7 +7,7 @@
     </td>
     <td>
       <h2>Sobre mí</h2>
-Hola, soy **Rodrigo Barconte**, soy estudiante de la **Tecnicatura en Desarrollo de Software en UADE**.
+Hola, soy Rodrigo Barconte, soy estudiante de la Tecnicatura en Desarrollo de Software en UADE.
 
 Me interesa seguir aprendiendo sobre programación, desarrollo de software y nuevas tecnologías.
 
